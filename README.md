@@ -10,7 +10,7 @@ Private docker registry for dcape users
 [5]: LICENSE
 
 [Docker registry](https://github.com/distribution/distribution) application package for [dcape](https://github.com/dopos/dcape).
-Access to registry is limited by [gitea](https://gitea.io) users the same way as other private [dcape](https://github.com/dopos/dcape) resources.
+Access to registry is limited by [gitea](https://gitea.io) users the same way as to other private [dcape](https://github.com/dopos/dcape) resources.
 
 ## Docker image used
 
@@ -37,10 +37,13 @@ Access to registry is limited by [gitea](https://gitea.io) users the same way as
 
 ## See also
 
+* [Deploy apps with dcape](https://dopos.github.io/dcape/usage/apps/)
+
+Other ways to get private docker registry
+
 * for docker registry: https://github.com/cesanta/docker_auth [out of time](https://github.com/cesanta/docker_auth/issues/288#issuecomment-702931777)
 * https://github.com/goharbor/harbor
 * http://port.us.org/ (wait for gitea support [here](http://port.us.org/features/oauth.html))
-* [Deploy apps with dcape](https://dopos.github.io/dcape/usage/apps/)
 
 ## License
 
